@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "joinrandom",
+    "name": "JoinRandom",
+    "description": "Adds a keybind which joins a random Hypixel minigame.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/shardion/JoinRandom/",
+    "updateUrl": "",
+    "authorList": ["shardion"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
