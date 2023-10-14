@@ -6,5 +6,5 @@ You may optionally disable the selection of any minigame, or add weights (to joi
 This project is released under the GNU Lesser General Public License v3, or any later version.
 You may find the license text inside the [LICENSE](https://github.com/shardion/JoinRandom/blob/1.12.2/LICENSE) file.
 
-An eternal thanks to [Controlling](https://github.com/jaredlll08/Controlling/tree/1.8.9) for their Gradle setup for Forge on 1.8.9.
-The project's license file is included as [LICENSE-Controlling](https://github.com/shardion/JoinRandom/blob/1.8.9/LICENSE-Controlling) on the 1.8.9 branch.
+An eternal thanks to [CleanroomMC](https://github.com/CleanroomMC/) for [their Gradle setup for Forge on 1.12.2](https://github.com/CleanroomMC/TemplateDevEnv).
+The project's license file is included as [LICENSE-TemplateDevEnv](https://github.com/shardion/JoinRandom/blob/1.12.2/LICENSE-TemplateDevEnv) on the 1.12.2 branch.

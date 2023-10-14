@@ -64,7 +64,7 @@ public class JoinRandomConfig {
     @SubscribeEvent
     public void onConfigurationChangeEvent(ConfigChangedEvent.OnConfigChangedEvent event) {
         this.config.save();
-        if (event.modID.equalsIgnoreCase("joinrandom")) {
+        if (event.getModID().equalsIgnoreCase("joinrandom")) {
             invalidateCachedMinigameWeightMap();
         }
     }

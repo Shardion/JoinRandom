@@ -11,7 +11,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.File;
 
-@Mod(modid = "joinrandom", name = "JoinRandom", version = "1.0.0", clientSideOnly = true)
+@Mod(modid = "joinrandom", name = "JoinRandom", clientSideOnly = true, useMetadata = true)
 public class JoinRandom {
     public static Logger LOGGER;
     public static JoinRandomConfig CONFIG;
